@@ -1,5 +1,5 @@
 import pyodbc
-
+#I want to change this row
 f = open("DATA_FILE - Copy.txt", mode= "r")
 
 listSanPhamStr = []
